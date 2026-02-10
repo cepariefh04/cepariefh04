@@ -151,7 +151,7 @@ Comfortable working collaboratively in teams, with a strong commitment to **code
 ## 🌐 Social Media
 
 <a href="https://www.instagram.com/cepariefh/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kocannnnnn" height="40" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/cepariefh/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
