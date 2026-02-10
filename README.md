@@ -3,7 +3,7 @@
 ## 🚀 Full Stack Developer
 
 📞 **Phone**: 085643628546  
-📧 **Email**: ariefhabibudin [at] gmail [dot] com  
+📧 **Email**: ariefhabibudin&#64;gmail&#46;com  
 
 ---
 
