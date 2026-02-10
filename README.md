@@ -98,9 +98,11 @@ Comfortable working collaboratively in teams, with a strong commitment to **code
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cepariefh04&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cepariefh04&layout=compact)
+<p align="left">
+  <a href="https://github.com/cepariefh04">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cepariefh04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 ---
 
