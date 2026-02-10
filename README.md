@@ -67,12 +67,8 @@ Comfortable working collaboratively in teams, with a strong commitment to **code
 ## 🛠️ Tech Stack
 
 ### 🌐 Languages
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-</a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
 </a>
