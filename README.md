@@ -133,7 +133,7 @@ Comfortable working collaboratively in teams, with a strong commitment to **code
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/cepariefh04">
+  <a href="https://github.com/cepariefh04" style="text-decoration: none;">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cepariefh04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
@@ -150,10 +150,10 @@ Comfortable working collaboratively in teams, with a strong commitment to **code
 
 ## 🌐 Social Media
 
-<a href="https://www.instagram.com/cepariefh/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kocannnnnn" height="40" width="40" />
+<a href="https://www.instagram.com/cepariefh/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/cepariefh/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/cepariefh/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
