@@ -2,8 +2,6 @@
 
 ## 🚀 Full Stack Developer
 
-📧 **Email**: ariefhabibudin&#64;gmail&#46;com  
-
 ---
 
 ## 👨‍💻 About Me
@@ -90,7 +88,9 @@ Comfortable working collaboratively in teams, with a strong commitment to **code
   </a>
 </p>
 
-## 🌐 Social Media
+---
+
+## 📫 Let’s Connect!
 
 <a href="https://www.instagram.com/cepariefh/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
@@ -99,9 +99,7 @@ Comfortable working collaboratively in teams, with a strong commitment to **code
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
----
-
-## 📫 Let’s Connect!
+📧 **Email**: ariefhabibudin&#64;gmail&#46;com 
 
 💼 Open for collaboration, freelance projects, and exciting career opportunities.
 
